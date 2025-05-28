@@ -7,4 +7,8 @@ The four innovations of this study can be summarized as follows:
 4. Introduces GraphSAGE as an innovative approach, leveraging its efficient neighbor sampling and feature aggregation mechanism to address the computational bottlenecks of traditional graph convolutional networks when handling large-scale graph data.
 
 This comprehensive architecture effectively captures and integrates multimodal information, leveraging the strengths of BERT, ResNet, multi-head attention, and GraphSAGE to deliver robust sentiment analysis. The structure of the proposed model is shown below：
+
+
 ![image](https://github.com/user-attachments/assets/105cf018-7f70-4fd5-ae2c-95e97b782d17)
+
+
